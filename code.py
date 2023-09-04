@@ -57,3 +57,5 @@ with smart_run(session):
         text_file.write(result)
 
     print('[INFO]: Followers list successfully saved to ' + targetAccount + '_followers.txt')
+
+#python grab.py --account kingjames --percentage 25
